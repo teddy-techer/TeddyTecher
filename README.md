@@ -1,1 +1,3 @@
-# TeddyTecher
+# Hello, 
+## I'm Teddy Techer
+## A web developer
